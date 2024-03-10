@@ -1,3 +1,7 @@
-<img src = "giphy.gif" width = "325px">
+<img src = "giphy.gif" width = "385" align = "top">
 
-# Seja bem-vindo e bem-vinda ao meu GitHub!
+#        Olá, é bom ter você aqui!<br>
+<div>
+  
+  
+</div>
