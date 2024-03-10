@@ -1,9 +1,11 @@
 <img src = "giphy.gif" width = "385" align = "top">
 
-# <3 Olá, é bom ter você aqui!<br>
+# 🖤 Olá, é bom ter você aqui!<br>
+<a href = "https://www.linkedin.com/in/ariel-lara-correia-b66b16256/" >
+    <img src="linkedin.svg" alt="linkedin" width = "100" height = "35">
+</a>
 
 - 👨‍🎓 Estudante de tecnolagia 👨‍💻 
-
 
 
 <div>
