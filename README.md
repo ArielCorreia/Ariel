@@ -5,8 +5,10 @@
     <img src="linkedin.svg" alt="linkedin" width = "100" height = "35">
 </a>
 
+
 - 👨‍🎓 Estudante de tecnolagia 👨‍💻 
 
+-----
 
 <div>
   <img src = "vscode(1).gif" width = "40"  height = "40">
